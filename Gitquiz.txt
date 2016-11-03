@@ -1,0 +1,12 @@
+1. Open email and copy link... this one -> "git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git"
+2. Open terminal and paste link 
+3. This link will clone your repository
+4. Open your repository by typing "cd" and your repository name
+5. Type "gedit" and a new file name
+6. Another window will pop up with your new file name at the top
+7. Write what needs to be written, in this case, the instructions to how to create a new file 
+8. Save file by clicking "save" or pressing "ctrl S"
+9. Add, commit, and push your changes to github.com by writing(in the terminal)
+	-git add "your new file name"
+	-git commit -m "commit message"
+	-git push
