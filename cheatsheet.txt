@@ -7,3 +7,15 @@ cd ..: Go up
 cat <file name>: View the contents of a file
 gedit <file name> &
 python -m SimpleHTTPServer - Start the development server
+
+1.To open files like this thing you're writing on right now, you type gedit then file name
+
+2.To view the source code, you press ctrl+U 
+
+3.To create a webpage you basically do the same thing you do in Gitquiz and edit stuff.
+
+
+
+
+
+
