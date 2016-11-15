@@ -21,6 +21,8 @@ ECDSA key fingerprint is 11:21:e3:af:61:48:9f:14:d4:4d:df:75:82:ea:45:a1.
 Are you sure you want to continue connecting (yes/no)? 
 TYPE YES
 enter password... you will then be connected to cmis-hsteacher
+then write cd public_html/ then enter
+then write put then the file you want to upload then enter
 	
 
 
