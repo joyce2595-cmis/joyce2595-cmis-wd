@@ -1,13 +1,18 @@
 
 html { 
-	background: linear-gradient(to right, #ff9999 0%, #ffff99 100%);
 	text-align: center;
 	border: 20px powderblue; 
-	border-style:dotted solid double dashed; 
+	border-style:dotted solid double dashed;
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/1280px-Garfield_the_Cat.svg.png);
+	background-size: 300px 200px
+	
+	
 }
 h1 {
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	font-size:40px;
+	color: lightCyan;
+
 }
 h2 { 
 	color: purple;
@@ -16,61 +21,16 @@ h2 {
 	
 }
 p { 
-	color: cornflowerblue;
+	color: violet;
 	font-size:30px;
 	font-family:"Comic Sans MS", cursive, sans-serif;
+	padding-bottom: 30px
 }
-body { 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
+body {
+	background-image: url(http://www.intrawallpaper.com/static/images/abstract-mosaic-background.png);
+	background-size: 1700px 500px;
+	background-repeat: no-repeat;
 }
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #111;
-}
-
-.active {
-    background-color: #4CAF50;
-}
-</style>
-</head>
-<body>
-
-<ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-</ul>
-
-</body>
-</html>
-
-
-
-
-
 
 
 
