@@ -8,6 +8,8 @@ html {
 	background-size: 1700px 900px;
 	opacity: 0.71;
 	cursor: crosshair;
+	outline: 10px solid;
+	outline-color: teal;
 	
 	
 }
@@ -15,6 +17,7 @@ h1 {
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	font-size:40px;
 	color: lightCyan;
+	margin-top: 5px;
 
 }
 h2 { 
@@ -23,6 +26,7 @@ h2 {
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	text-shadow: 4px 3px 5px aliceblue;
 	text-transform: uppercase;
+	text-decoration: underline;
 	
 }
 p { 
@@ -30,6 +34,8 @@ p {
 	font-size:30px;
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	padding-bottom: 30px
+	column-gap: 5px;
+	transform: skewX(10deg);
 }
 body {
 	background-image: url(http://www.intrawallpaper.com/static/images/abstract-mosaic-background.png);
