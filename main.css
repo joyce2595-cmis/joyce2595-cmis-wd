@@ -61,7 +61,8 @@ h1 {
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	font-size:40px;
 	color: lightCyan;
-	margin-top: 5px;
+	margin-top: 1px;
+	padding-top: 0.1px;
 
 }
 h2 { 
@@ -70,14 +71,18 @@ h2 {
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	text-shadow: 4px 3px 5px aliceblue;
 	text-transform: uppercase;
-	text-decoration: underline;
-	
+	text-decoration: underline;	
+}
+h3 {
+	font-size: 30px;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	color: purple;
 }
 p { 
-	color: powderblue;
-	font-size:30px;
+	color: #FDEEF4;
+	font-size:25px;
 	font-family:"Comic Sans MS", cursive, sans-serif;
-	padding-bottom: 30px;
+	padding-bottom: 0.5px;
 	column-gap: 5px;
 	transform: skewX(10deg);
 }
