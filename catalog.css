@@ -2,7 +2,36 @@ html {
 	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/97/26/f8/9726f8387b27b286ce990898d84e6667.jpg);
 	text-align: center;
 }
-body {
+ul{
+ 	list-style-type: none;
+	font-size:20px;
+	color: black;
+	font-weight: bold;
 	
+ }
+article {
+	border: solid grey;
+	border-height: 25px;
+	border-width: 10px ;
+	margin-left:10cm;
+	margin-right:10cm;
+	margin-bottom:5cm;
+	background-image: url(http://static.bestfreewebresources.com/wp-content/uploads/2013/03/pro-pattern-14.jpg)
+
 }
+h1 {
+	font-size:50px;
+	color:white;
+	background:grey;
+}
+p{
+	font-size:40px
+
+}
+body p {
+	font-size:50px;
+	background:lightgreen;
+}
+
+
 
