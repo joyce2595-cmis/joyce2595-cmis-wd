@@ -11,13 +11,12 @@ ul{
  }
 article {
 	border: solid grey;
-	border-height: 25px;
+	border-top: 10px;
 	border-width: 10px ;
 	margin-left:10cm;
 	margin-right:10cm;
 	margin-bottom:5cm;
 	background-image: url(http://static.bestfreewebresources.com/wp-content/uploads/2013/03/pro-pattern-14.jpg)
-
 }
 h1 {
 	font-size:50px;
@@ -32,6 +31,19 @@ body p {
 	font-size:50px;
 	background:lightgreen;
 }
+article p {
+	font-size:20px;
+}
+nav, footer {
+	background-color:grey;
+}
+header {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+main {
+	padding-top:1cm;
+}
+
 
 
 
